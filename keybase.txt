@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bin_earley
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://BenjaminEarley.com
+  * I am bin_earley (https://keybase.io/bin_earley) on keybase.
+  * I have a public key ASCvE5Eheyzi-cejt9fDSxyQfOL7CKSWt8w1HDveMW6J3Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120af1391217b2ce2f9c7a3b7d7c34b1c907ce2fb08a496b7cc351c3bde316e89dc0a",
+      "host": "keybase.io",
+      "kid": "0120af1391217b2ce2f9c7a3b7d7c34b1c907ce2fb08a496b7cc351c3bde316e89dc0a",
+      "uid": "dc0999093802c65dcc0fe8718877e819",
+      "username": "bin_earley"
+    },
+    "merkle_root": {
+      "ctime": 1535639059,
+      "hash": "8d979a97dfacae767237f6d99415d446cb98373036c251ef663086d45b9a801960ecad99c4fea780e47295c57e6d88a2a0031700d8da6665e57d14dde1dbbc43",
+      "hash_meta": "b8fd8c32747ad1dd0434eb6b5ce4861862a2b3c14242d4c4decd2a1622cb8ef8",
+      "seqno": 3538604
+    },
+    "service": {
+      "entropy": "BzEziTufURrau79qo6qVLTFR",
+      "hostname": "BenjaminEarley.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.0"
+  },
+  "ctime": 1535639072,
+  "expire_in": 504576000,
+  "prev": "a7da3b95bb8cb8a5fb30d0e7664ade06b57c17b5c21720ee5ceeeaf8b8e9ef31",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrxORIXss4vnHo7fXw0sckHzi+wiklrfMNRw73jFuidwKp3BheWxvYWTESpcCF8Qgp9o7lbuMuKX7MNDnZkreBrV8F7XCFyDuXO7q+Ljp7zHEIPA554x2t8H4BdcIyXi5tv3wk4r1GeXlAbxn50gC+QiOAgHCo3NpZ8RAq44+WdbKUMwyMbZtxG4fJp+hn5WXkLBa+RSBdZGSGzIjpzbfcsyF/OrLLttp4b5VV9N3sYrwpHmteEfLklpbAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKxkcyNJocT7q9UWNlIV59gcaIT489AlkYTk/dszKj3Lo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bin_earley
+
+==================================================================
